@@ -4,3 +4,12 @@
 /.streamlit/config.toml
 __pycache__/
 .pytest_cache/
+*.ipynb
+pydeps/
+*.csv
+*.png
+*.pdf
+*.txt
+.DS_Store
+/.streamlit/*.toml
+/.streamlit/config.toml
